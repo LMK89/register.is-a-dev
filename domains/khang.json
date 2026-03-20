@@ -4,6 +4,7 @@
     "email": "lekhang@duck.com"
   },
   "records": {
-    "CNAME": "lmk89.github.io"
+    "CNAME": "lmk89.github.io",
+    "TXT": "7e1c479cb9e8f12ab88dd5b1c7a0ba"
   }
 }
